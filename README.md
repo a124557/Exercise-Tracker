@@ -8,4 +8,4 @@ Languages/Technologies: HTML/CSS, JavaScript, Bootstrap, Node.js, MongoDB
 
 Link: https://Exercise-Tracker.av1124.repl.co
 
-<img width="1635" alt="jpg" src="https://user-images.githubusercontent.com/72053963/174666752-295acf28-a7bb-4753-9bde-28a219c7423e.PNG">
+<img width="1619" alt="jpg" src="https://user-images.githubusercontent.com/72053963/174666902-6c6fc7e4-a735-4b24-ba5a-f6d5a1fb069a.PNG">
