@@ -16,7 +16,7 @@ app.use(express.urlencoded({extended: true}));
 app.use(express.static(public));
 app.use(connectLiveReload());
 
-const URI = 'mongodb+srv://mongo:pass1@cluster0.h3dfd.mongodb.net/?retryWrites=true&w=majority';
+const URI = '';
 
 var liveReloadServer = liveReload.createServer();
 liveReloadServer.watch(public);
